@@ -1,4 +1,6 @@
 0. type 'npm start' on the the terminal of visual studio code to download 'node_modules'
+        'npm install --save-dev jest'
+        'npm install eslint --save-dev'
 
 1. type 'npm run lint' on the the terminal of visual studio code to see how 'eslint' works
 
