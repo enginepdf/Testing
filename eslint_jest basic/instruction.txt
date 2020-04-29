@@ -1,1 +1,5 @@
-run 'npm start' on visual studio code to download 'node_modules'
+0. type on terminal 'npm start' on visual studio code to download 'node_modules'
+
+1. type on terminal 'npm run lint' to see how 'eslint' works
+
+2. type on terminal 'npm run test' to see how 'jest' works 
