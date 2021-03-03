@@ -1,8 +1,8 @@
 const appleproduct = (first, second) => {
-    return first + ' ' + second;
-  };
+  return first + ' ' + second;
+};
  
-  module.exports = {
-   appleproduct
-  };
+module.exports = {
+  appleproduct
+};
   
