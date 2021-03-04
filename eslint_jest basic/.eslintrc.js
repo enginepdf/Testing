@@ -10,10 +10,11 @@ module.exports = {
     },
     "rules": {
         "curly": "error",
-        "quotes": ["error", "single"],
+        "quotes": ["error", "single"], // "double"
   	    "comma-style": ["error", "last"],
         "object-curly-spacing": [ 0, "always" ],  // 0 === 'off' 1 === 'warn' 2 === 'error'
-        "max-len": [2, {
+        "max-len": [2, 
+                        {
                         "code" : 100
                         }
                    ],    
