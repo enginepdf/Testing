@@ -5,7 +5,7 @@
   "main": ".eslintrc.js",
   "scripts": {
     "test": "jest",
-    "lint": "eslint eslint_jest.js --quiet"
+    "lint": "eslint eslint_jest.js --fix"
   },
   "author": "",
   "license": "ISC",
